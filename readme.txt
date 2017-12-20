@@ -1,2 +1,2 @@
-git is a good  version control sysi
-git is a free software
+git is a good  version control system;
+git is a free software distributed under the GPL
